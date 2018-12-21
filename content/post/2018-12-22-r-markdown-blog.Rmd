@@ -1,0 +1,12 @@
+---
+title: R markdown blog
+author: erique
+date: '2018-12-22'
+slug: r-markdown-blog
+categories:
+  - R
+tags: []
+---
+
+is this working?
+
